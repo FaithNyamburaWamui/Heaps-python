@@ -1,0 +1,10 @@
+string_tuples = ("chair","pencil","book","pens")
+print(string_tuples[2])
+print(string_tuples[3])
+print(string_tuples[1])
+print(string_tuples[2:4])
+
+numbers_tuples = (2,3,4,5,6,7)
+numbers2_tuples = (8,9,10,11,12)
+print(numbers_tuples+numbers2_tuples)
+print(8 in numbers2_tuples)
